@@ -46,3 +46,9 @@ credentials are excluded from this repository.
 - Backend: Go
 - Database: PostgreSQL
 - Mobile, later: React Native and Expo
+
+## Contributing
+
+Commi welcomes ideas, bug reports, and improvements.
+Please open an issue to discuss substantial changes before
+starting work.
